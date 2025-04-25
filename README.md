@@ -10,10 +10,10 @@ Welcome to the **ShipdeHop Admin Panel** — a lightweight and responsive admin 
 ![Image](https://github.com/user-attachments/assets/61de38a1-0802-4674-9795-ee0b0a0a08b1)
 
 ### Admin Dashboard - User Management
-![Admin Dashboard](/mnt/data/7060ac2d-1b46-4195-b6d2-4fa9f40c3c03.png)
+![Image](https://github.com/user-attachments/assets/61bac923-a8d1-404c-a14b-2a45e43fcee0)
 
 ### Mobile Responsive View
-![Mobile View](/mnt/data/6aa1ada2-3b4e-4c67-90ae-339427efbc60.png)
+![Image](https://github.com/user-attachments/assets/ecea7590-410e-4c05-b6e3-6631f35d10ea)
 
 ## ✨ Features
 
