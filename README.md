@@ -1,12 +1,72 @@
-# React + Vite
+# 🚀 ShipdeHop Admin Panel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **ShipdeHop Admin Panel** — a lightweight and responsive admin dashboard built for managing users, transactions, reviews, and support tickets effectively.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [Visit Deployment](https://shipde-hop.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Admin Login Page
+![Admin Login](/mnt/data/34848a62-fd50-42ee-9015-7f82380d4515.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Admin Dashboard - User Management
+![Admin Dashboard](/mnt/data/7060ac2d-1b46-4195-b6d2-4fa9f40c3c03.png)
+
+### Mobile Responsive View
+![Mobile View](/mnt/data/6aa1ada2-3b4e-4c67-90ae-339427efbc60.png)
+
+## ✨ Features
+
+- Admin authentication login page.
+- User management (Approve/Reject KYC Status).
+- Dashboard with sidebar navigation:  
+  ➤ Users  
+  ➤ Reviews  
+  ➤ Transactions  
+  ➤ Support Tickets
+- Fully responsive for mobile, tablet, and desktop devices.
+- Simple and clean UI using modern web technologies.
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS
+- **Deployment**: Vercel
+
+## 🚀 How to Run Locally
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/shipdehop-admin-panel.git
+   cd shipdehop-admin-panel
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the Development Server**
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## 📂 Folder Structure
+
+```
+/src
+ ├── components/   # Reusable UI Components
+ ├── pages/        # Pages like Login, Dashboard
+ ├── assets/       # Images, Icons
+ ├── styles/       # Tailwind and custom styles
+ └── App.js        # Main App file
+```
+
+## 🤝 Contribution
+
+Feel free to fork the repository and submit a pull request if you want to improve or add features.
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
